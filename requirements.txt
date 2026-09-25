@@ -1,0 +1,5 @@
+pyrogram
+tgcrypto
+feedparser
+yt-dlp
+curl_cffi
